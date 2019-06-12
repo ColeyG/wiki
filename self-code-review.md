@@ -10,6 +10,8 @@ The following is a checklist to be completed before any MRs are submitted to ano
   - [] Are *all* comitted doc blocks correct?
   - [] Do any of them need to change from associated commited changes?
 - [] Are there no MR conflicts?
+- [] Are the applicable tests completed?
+  - Testing on certain browsers etc
 
 ## All Code
 - [] Take a moment to think about future proofing
