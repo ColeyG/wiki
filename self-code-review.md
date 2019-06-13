@@ -17,6 +17,8 @@ The following is a checklist to be completed before any MRs are submitted to ano
 - [] Take a moment to think about future proofing
   - [] Are there no multiple instantiations of the same functionality?
     - Can they be "variablized" or "functionized"?
+- [] Are any files unintentionally changed?
+  - Check every file for changes made, did you make them?
 
 ## Magento 2
 - [] Will config have changed?
@@ -25,6 +27,7 @@ The following is a checklist to be completed before any MRs are submitted to ano
   - Do you have composer.json in any new modules?
   - Have you imported any new modules?
 - [] Check localizations & escapes
+  - [] For **ALL** text
 - [] Do all template.phtml files have doc blocks?
 
 ## Sass
