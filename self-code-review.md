@@ -28,6 +28,7 @@ The following is a checklist to be completed before any MRs are submitted to ano
   - Have you imported any new modules?
 - [] Check localizations & escapes
   - [] For **ALL** text
+  - [] Is there things in translations that shouldn't be?
 - [] Do all template.phtml files have doc blocks?
 
 ## Sass
