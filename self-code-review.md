@@ -3,6 +3,7 @@
 The following is a checklist to be completed before any MRs are submitted to another dev for review.
 
 ## General
+
 - [] Is the MR not marked as WIP?
 - [] Is the MR description correct & concise?
 - [] Did the MR pass all pipelines?
@@ -14,6 +15,7 @@ The following is a checklist to be completed before any MRs are submitted to ano
   - Testing on certain browsers etc
 
 ## All Code
+
 - [] Take a moment to think about future proofing
   - [] Are there no multiple instantiations of the same functionality?
     - Can they be "variablized" or "functionized"?
@@ -21,6 +23,7 @@ The following is a checklist to be completed before any MRs are submitted to ano
   - Check every file for changes made, did you make them?
 
 ## Magento 2
+
 - [] Will config have changed?
   - Have you added or disabled any modules?
 - [] Does composer need updating?
@@ -32,6 +35,7 @@ The following is a checklist to be completed before any MRs are submitted to ano
 - [] Do all template.phtml files have doc blocks?
 
 ## Sass
+
 - [] Is it linted?
 - [] Did you check using the review task?
 - [] Are there no direct css values?

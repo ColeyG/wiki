@@ -11,7 +11,7 @@ Some notes & thoughts about certain kindling features are found here.
 
 `\compass\layout\form\grid-columns\apply()`:
 
-```
+```scss
 .fields {
     @include \compass\layout\form\grid-columns\apply();
 
