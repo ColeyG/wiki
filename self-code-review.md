@@ -8,7 +8,7 @@ The following is a checklist to be completed before any MRs are submitted to ano
 - [] Is the MR description correct & concise?
 - [] Did the MR pass all pipelines?
 - [] Check Doc Blocks/type hinting
-  - [] Are *all* comitted doc blocks correct?
+  - [] Are _all_ comitted doc blocks correct?
   - [] Do any of them need to change from associated commited changes?
 - [] Are there no MR conflicts?
 - [] Are the applicable tests completed?
@@ -21,6 +21,7 @@ The following is a checklist to be completed before any MRs are submitted to ano
     - Can they be "variablized" or "functionized"?
 - [] Are any files unintentionally changed?
   - Check every file for changes made, did you make them?
+- Are dependencies up to date locally? Compiling with older versions or packages could lead to wierd changes
 
 ## Magento 2
 
