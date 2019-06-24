@@ -40,4 +40,4 @@ The following is a checklist to be completed before any MRs are submitted to ano
 - [] Is it linted?
 - [] Did you check using the review task?
 - [] Are there no direct css values?
-  - [] Values should be calculated using rem calc etc.
+  - [] Values should be calculated using rem-calc, etc.
