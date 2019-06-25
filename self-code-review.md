@@ -2,6 +2,10 @@
 
 The following is a checklist to be completed before any MRs are submitted to another dev for review.
 
+## Important
+
+- [] Triple Check Doc Blocks
+
 ## General
 
 - [] Is the MR not marked as WIP?
@@ -13,12 +17,13 @@ The following is a checklist to be completed before any MRs are submitted to ano
 - [] Are there no MR conflicts?
 - [] Are the applicable tests completed?
   - Testing on certain browsers etc
+- [] Do external links open new tabs?
 
 ## All Code
 
 - [] Take a moment to think about future proofing
   - [] Are there no multiple instantiations of the same functionality?
-    - Can they be "variablized" or "functionized"?
+    - Can they be "variablized", "functionized", or abstract?
 - [] Are any files unintentionally changed?
   - Check every file for changes made, did you make them?
 - Are dependencies up to date locally? Compiling with older versions or packages could lead to wierd changes
