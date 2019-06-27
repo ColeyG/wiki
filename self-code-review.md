@@ -5,6 +5,7 @@ The following is a checklist to be completed before any MRs are submitted to ano
 ## Important
 
 - [] Triple Check Doc Blocks
+- [] Consider Sizes Larger than what you Have Designs for
 
 ## General
 
@@ -23,7 +24,7 @@ The following is a checklist to be completed before any MRs are submitted to ano
 
 - [] Take a moment to think about future proofing
   - [] Are there no multiple instantiations of the same functionality?
-    - Can they be "variablized", "functionized", or abstract?
+    - Can they be "variablized", "functionized", or abstracted?
 - [] Are any files unintentionally changed?
   - Check every file for changes made, did you make them?
 - Are dependencies up to date locally? Compiling with older versions or packages could lead to wierd changes
@@ -46,3 +47,5 @@ The following is a checklist to be completed before any MRs are submitted to ano
 - [] Did you check using the review task?
 - [] Are there no direct css values?
   - [] Values should be calculated using rem-calc, etc.
+- [] Media Queries AFTER elements
+- [] Follows mixin->query->pseudo->children format
