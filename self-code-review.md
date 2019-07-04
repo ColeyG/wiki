@@ -49,3 +49,4 @@ The following is a checklist to be completed before any MRs are submitted to ano
   - [] Values should be calculated using rem-calc, etc.
 - [] Media Queries AFTER elements
 - [] Follows mixin->query->pseudo->children format
+- [] Verify Kindling notes
