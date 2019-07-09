@@ -46,3 +46,15 @@ Instead of chaining media queries, we should pass values to a mixin via a map li
 ```
 
 NOTE: `> *` selects all direct children
+
+### Fixing Linting for Values
+
+```scss
+@include \kindling\grid\column(
+  $responsive-sizes: (
+    "small": \kindling\grid\column-width-calc(12),
+    "large": \kindling\grid\column-width-calc(5),
+    "xlarge": \kindling\grid\column-width-calc(4),
+  )
+);
+```
