@@ -6,6 +6,7 @@ The following is a checklist to be completed before any MRs are submitted to ano
 
 - [] Triple Check Doc Blocks
 - [] Consider Sizes Larger than what you Have Designs for
+- [] Is templating consistent? (IE: <?= vs echo)
 
 ## General
 
@@ -40,6 +41,7 @@ The following is a checklist to be completed before any MRs are submitted to ano
   - [] For **ALL** text
   - [] Is there things in translations that shouldn't be?
 - [] Do all template.phtml files have doc blocks?
+- [] Is templating consistent? (IE: <?= vs echo)
 
 ## Sass
 
