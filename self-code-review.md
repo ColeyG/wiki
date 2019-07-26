@@ -42,6 +42,7 @@ The following is a checklist to be completed before any MRs are submitted to ano
   - [] Is there things in translations that shouldn't be?
 - [] Do all template.phtml files have doc blocks?
 - [] Is templating consistent? (IE: <?= vs echo)
+- [] Is all XML valid using the XSD validator?
 
 ## Sass
 
