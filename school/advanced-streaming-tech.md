@@ -7,3 +7,7 @@
 ## Week 3
 
 - Nothing
+
+## Week 4
+
+- Open Lab
