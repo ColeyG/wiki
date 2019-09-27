@@ -7,3 +7,9 @@
 ## Week 3
 
 - Arrays & Functions
+
+## Week 4
+
+- OOP Assignment info
+  - Create a page that implements classes
+- Week 6 there will be a practical exam
