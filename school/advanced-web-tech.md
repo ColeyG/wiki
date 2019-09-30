@@ -12,3 +12,28 @@
 
 [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+## Week 5
+
+- Responsive site
+  - Responsive, mobile first 5pts
+    - Breakpoints going correct ways
+  - Design 3pts
+  - Coding Valid html, valid css, sass 4pts
+  - Design considerations for devices 2pts
+  - Following directions 1pt
+    - Naming etc.
+  - Total 15 pts
+
+- Midterm - Week 7
+  - On FOL
+  - HTML
+  -CSS3
+  - Responsive Design
+  - TrueFalse, Multiple Choice, & Practical
+
+- Garduino Project - Week 9
+  - Garduino Project Site
+
+- Flex Box
+- CSS Grid
