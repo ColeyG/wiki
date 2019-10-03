@@ -19,5 +19,5 @@
 - Midterm
   - Based on slides, read and review all slides
 
-- Green Sock 
+- Green Sock
   - Animations
