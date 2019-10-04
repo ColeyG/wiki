@@ -21,7 +21,20 @@ Ideas:
   - [example](http://themes.fxoffice.net/lorem/photographer/index.html)
   - ML Integration
   - Fractals
-  - Fish Tank 
+  - Fish Tank
 - HTML 5 Store
   - A gallery of HTML layouts for purchase
   - Users can post & sell HTML 5 Layouts
+
+Thesis Planning Doc:
+
+- Elevator Pitch
+  - Who/what is the app for?
+- Competitive Analysis
+  - Why do we need it
+- Core Functionality
+  - Scope setting
+- Map & Wireframe
+- Tech
+- UI Concepts
+- Timesheets & Workback
