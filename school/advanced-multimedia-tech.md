@@ -21,3 +21,7 @@
 
 - Green Sock
   - Animations
+
+## Week 8
+
+- Starting Node
