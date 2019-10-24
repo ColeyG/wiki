@@ -25,3 +25,6 @@
 ## Week 8
 
 - Starting Node
+  - Restaurant metaphor
+    - Apache hires and distributes a new waiter per user
+    - Node uses a single, very fast waiter
