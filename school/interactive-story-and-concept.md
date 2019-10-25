@@ -38,3 +38,14 @@ Thesis Planning Doc:
 - Tech
 - UI Concepts
 - Timesheets & Workback
+
+## Week 8
+
+- Thesis Research Project
+  - Functionality Map
+    - Presented in a wireframe and flowchart
+    - Each step and its code considerations
+      - IE: login/register posts data
+  - Executive Summary
+  - Use Case Scenario
+  - Competitive Analysis
