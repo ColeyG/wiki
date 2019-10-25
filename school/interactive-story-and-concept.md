@@ -49,3 +49,7 @@ Thesis Planning Doc:
   - Executive Summary
   - Use Case Scenario
   - Competitive Analysis
+
+- MongoDB beginning
+  - Mongo is structure-less
+    - Mongo doesn't have types, IE int, char, etc
