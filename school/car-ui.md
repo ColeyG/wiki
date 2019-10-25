@@ -12,6 +12,6 @@
 - [X] Color Choices
 - [X] Typography
   - Helvetica Neue
-- [] Home Screen - Cole
-- [] Quick Mockup - Anna
+- [X] Home Screen - Cole
+- [X] Quick Mockup - Anna
 - [] Design Doc (Preliminary) - Prathap

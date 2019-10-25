@@ -15,6 +15,6 @@
   - Libre Baskerville
 - [X] Name
   - Folium
-- [] Logo
+- [X] Logo
 - [] Functionality - Cole
   - Flow Chart
