@@ -37,3 +37,12 @@
 
 - Flex Box
 - CSS Grid
+
+## Week 8
+
+- Garduino Site Due Next week
+  - Responsive 3
+  - Design 2
+  - Coding 3
+  - Design 1
+  - Followed Directions 1
