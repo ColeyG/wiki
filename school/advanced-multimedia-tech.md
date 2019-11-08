@@ -28,3 +28,9 @@
   - Restaurant metaphor
     - Apache hires and distributes a new waiter per user
     - Node uses a single, very fast waiter
+
+## Week 9
+
+- Express App generator
+  - installed express and express-generator
+  - Used ejs templating to create app

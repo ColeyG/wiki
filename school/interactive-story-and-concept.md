@@ -53,3 +53,8 @@ Thesis Planning Doc:
 - MongoDB beginning
   - Mongo is structure-less
     - Mongo doesn't have types, IE int, char, etc
+
+## Week 9
+
+- `sudo apt install mongodb-clients`
+- `sudo apt install mongodb-server-core`
