@@ -58,3 +58,11 @@ Thesis Planning Doc:
 
 - `sudo apt install mongodb-clients`
 - `sudo apt install mongodb-server-core`
+
+- Commands:
+  - `show dbs`
+  - `use [db]`
+  - `show collections`
+  - Create new collections with entry: `db.students.insert({lname:"Jones",fname:"Indiana",image:"wjones.jpg"})`
+  - Select *: `db.students.find().pretty()`
+  - select * from [] where lname like '%ones': `db.students.find({lname:/ones/}).pretty()`
