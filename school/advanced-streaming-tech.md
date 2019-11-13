@@ -52,3 +52,21 @@
   - DatabaseSeeder class runs all other seeders
   - Seeder classes only have the run() method
   - `php artisan db:seed`
+
+## Week 10
+
+- MVC Project
+  - Model
+  - View
+  - Controller
+  - Migration
+  - Seeder
+  - Search Form
+
+- IE:
+  - Use a migration to create table of employees
+  - Use a seeder to fill employee table
+  - Have an employee model
+  - Use route facade to create all routes
+  - Use the controllers to store your logic to display all necessary views
+  - Use blade templates for view files
