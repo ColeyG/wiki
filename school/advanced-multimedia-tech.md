@@ -34,3 +34,10 @@
 - Express App generator
   - installed express and express-generator
   - Used ejs templating to create app
+
+## Week 10
+
+- Garduino Checkpoint
+  - Trello
+  - Git
+  - Workflow
