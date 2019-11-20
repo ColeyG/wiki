@@ -41,3 +41,4 @@
   - Trello
   - Git
   - Workflow
+  - Compilation Tasks and Project
