@@ -1,4 +1,4 @@
-# Nord VPN Setup:
+# Nord VPN Setup
 
 ```bash
 sudo wget -qnc https://repo.nordvpn.com/deb/nordvpn/debian/pool/main/nordvpn-release_1.0.0_all.deb;
