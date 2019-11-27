@@ -1,11 +1,11 @@
 # Interactive Story & Concept
 
-## Week 2
+## 2
 
 - Planning capstone/thesis
   - Create 2/3 ideas to be discussed with profs
 
-## Week 5
+## 5
 
 - Thesis
   - Decide stack
@@ -39,7 +39,7 @@ Thesis Planning Doc:
 - UI Concepts
 - Timesheets & Workback
 
-## Week 8
+## 8
 
 - Thesis Research Project
   - Functionality Map
@@ -54,7 +54,7 @@ Thesis Planning Doc:
   - Mongo is structure-less
     - Mongo doesn't have types, IE int, char, etc
 
-## Week 9
+## 9
 
 - `sudo apt install mongodb-clients`
 - `sudo apt install mongodb-server-core`

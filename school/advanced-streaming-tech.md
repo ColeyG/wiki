@@ -1,18 +1,18 @@
 # Advanced Streaming Tech
 
-## Week 2
+## 2
 
 - Php lecture for OOP
 
-## Week 3
+## 3
 
 - Nothing
 
-## Week 4
+## 4
 
 - Open Lab
 
-## Week 5
+## 5
 
 - Laravel Beginning
   - Installed Laravel via composer
@@ -21,7 +21,7 @@
   - Served via `php artisan serve`
   - Created controller via `php artisan make:controller AsdfController -r`
 
-## Week 8
+## 8
 
 - Migrations in Laravel
   - Move and maintain structure in Laravel without dumping & reimporting
@@ -29,7 +29,7 @@
 - By default, a table will us the snake case plural name of a class for a model
   - IE a model MyItem extends Model will have a table my_item
 
-## Week 9
+## 9
 
 - Laravel Restful
   - Examples:
@@ -53,7 +53,7 @@
   - Seeder classes only have the run() method
   - `php artisan db:seed`
 
-## Week 10
+## 10
 
 - MVC Project
   - Model

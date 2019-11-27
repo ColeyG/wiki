@@ -1,6 +1,6 @@
 # Advanced Web Tech
 
-## Week 4
+## 4
 
 ### Starting Flex & Grid
 
@@ -13,7 +13,7 @@
 [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
-## Week 5
+## 5
 
 - Responsive site
   - Responsive, mobile first 5pts
@@ -25,22 +25,22 @@
     - Naming etc.
   - Total 15 pts
 
-- Midterm - Week 7
+- Midterm - 7
   - On FOL
   - HTML
   -CSS3
   - Responsive Design
   - TrueFalse, Multiple Choice, & Practical
 
-- Garduino Project - Week 9
+- Garduino Project - 9
   - Garduino Project Site
 
 - Flex Box
 - CSS Grid
 
-## Week 8
+## 8
 
-- Garduino Site Due Next week
+- Garduino Site Due Next
   - Responsive 3
   - Design 2
   - Coding 3

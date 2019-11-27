@@ -1,14 +1,14 @@
 # Visual Communications 1
 
-## Week 2
+## 2
 
 - Worked on weather application
 
-## Week 3
+## 3
 
 - InDesign & XD Refresher
 
-## Week 4
+## 4
 
 - XD "My Resso"
   - Add multiple images to a repeated grid via multi-select and drop
