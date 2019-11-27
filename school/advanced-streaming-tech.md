@@ -70,3 +70,9 @@
   - Use route facade to create all routes
   - Use the controllers to store your logic to display all necessary views
   - Use blade templates for view files
+
+## 11
+
+- Laravel Auth
+  - Made up of Guards and Providers
+  - Laravel comes with model and migration for Users
