@@ -76,3 +76,6 @@
 - Laravel Auth
   - Made up of Guards and Providers
   - Laravel comes with model and migration for Users
+  - requires `composer require laravel/ui`
+  - and `php artisan ui vue --auth`
+  - and `php artisan migrate`
