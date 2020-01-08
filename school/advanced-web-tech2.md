@@ -9,3 +9,8 @@
   - [SWAPI](https://swapi.co/)
   - Responsive
   - Fetch API/Axios
+
+- Vue
+  - Methods/Computed/Watched Properties
+    - Computed Method computes everytime a dependecy changes
+    - Watched method computes whenever _its watched data changes_
