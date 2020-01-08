@@ -19,3 +19,9 @@ ExecStart=SERVICE START COMMAND (IE: `bash /home/cole/Documents/scripts/gmod-sta
 [Install]
 WantedBy=multi-user.target
 ```
+
+## Commands
+
+- `systemctl daemon-reload` reloads the sys config
+- `systemctl start gmod` starts a service named gmod
+- `systemctl enable gmod` adds a service named gmod to the autostart
