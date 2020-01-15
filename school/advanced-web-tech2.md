@@ -14,3 +14,12 @@
   - Methods/Computed/Watched Properties
     - Computed Method computes everytime a dependecy changes
     - Watched method computes whenever _its watched data changes_
+
+## 2
+
+- Swapi
+  - Rubric on slides
+
+- Vue
+  - Life Cycle Hooks
+  - Components
