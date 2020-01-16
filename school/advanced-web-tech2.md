@@ -23,3 +23,4 @@
 - Vue
   - Life Cycle Hooks
   - Components
+  - Props and events
