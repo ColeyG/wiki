@@ -31,3 +31,14 @@
     - Doesn't depend on external resources
       - Create resources with the test
     - Should be able to run tests in parallel
+
+## 3
+
+- Browser Testing
+  - Uses Laravel Dusk:
+  - `composer require --dev laravel/dusk`
+  - `php artisan dusk:install`
+  - Running Dusk: `php artisan dusk`
+  - Make test: `php artisan dusk:make LoginTest`
+  - Dusk Selectors: blade template elements to bind selection to
+    - IE: `dusk="login-button"`
