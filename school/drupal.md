@@ -7,3 +7,6 @@
 - Deployed drupal 8 to instance
 
 ## 2
+
+- Navigated the admin panel
+- Taxonomies, content types
