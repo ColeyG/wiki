@@ -23,3 +23,20 @@
 
 - View Display
   - can be of type block, page, or attachment
+
+## 4
+
+- Drupal Theming
+  - Downloaded custom theme
+  - Placed in the themes dir
+    - logo, screen, and info.yml is contained in theme root
+  - Added new view mode
+  - Regions defined in the theme
+  - Breakpoints are defined in the theme.breakpoints.yml file
+- twig
+  - `{{ variable }}`
+  - `{% set classes - [ 'node' ]%}`
+  - Twig Filters
+    - `{% set content = "Hello Friends" %}`
+    - `{{ content|clean_class}}`
+    - `hello-friends`
