@@ -20,7 +20,7 @@ The server process can be invoked via `~/server_1/srcds_run -game garrysmod +max
 
 - `steamcmd`
 - `login anonymous`
-- `force_install_dir /home/cole/server_1`
+- `force_install_dir /home/cole/Documents/server_1`
   - This **CANNOT** be a relative path
     - IE NOT `~/server_1`
 - `app_update 4020`
