@@ -40,3 +40,7 @@
     - `{% set content = "Hello Friends" %}`
     - `{{ content|clean_class}}`
     - `hello-friends`
+
+## 5
+
+- Building Views
