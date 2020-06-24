@@ -11,7 +11,8 @@
 ## pushd and popd
 
 - `pushd <options> <dir>` adds the current dir to the `dirs` stack then navigates to the passed dir
-- `popd` removes the most recenet dir for the dir stack and navigates to it
+- `popd <options>` removes the most recenet dir for the dir stack and navigates to it
+  - `-3 +5` as an option to `popd` removes the nth item from the stack from the bottom (-3) or top (+5)
 - `dirs` outputs all directories on the stack. Usefult for piping to stdin in other commands
 
 ## Check For Process Before Executing Process in Bash
