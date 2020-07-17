@@ -1,3 +1,5 @@
+# JS Async
+
 ```js
 const somePromise = new Promise(function () {return 'hello';})
 ```
